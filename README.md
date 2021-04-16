@@ -20,8 +20,8 @@
  <img height="25" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> </img>
 <div>
+ 
 ## 📫 How to reach me: ...
-
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.allisson.silva@ccc.ufcg.edu.br)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-allisson/)
 
