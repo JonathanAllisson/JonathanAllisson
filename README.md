@@ -2,7 +2,7 @@
 
 ## :book: About Me
 - 🖥 **Full-stack software developer**
-- 💻 **Studying Computer Science at the Federal University of Campina Grande** 
+- 💻 **Graduated in Computer Science at the Federal University of Campina Grande** 
 - 👨🏽‍💻 **Always in search of new technologies and improvement**
 - 💖 **Passionate about technology**
 
