@@ -20,6 +20,14 @@
  <img height="25" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> </img>
 <div>
+
+## Github Stats :bar_chart:
+
+<img style="width: 100%" src="http://github-readme-streak-stats.herokuapp.com?user=JonathanAllisson&theme=algolia&hide_border=true" />
+
+<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=JonathanAllisson&theme=algolia&show_icons=true&count_private=true&hide_border=true&hide=issues" />
+
+<img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAllisson&theme=algolia&hide_border=true&layout=compact&card_width=445&hide=css,html,objective-C" />
  
 ## 📫 How to reach me: ...
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.allisson.silva@ccc.ufcg.edu.br)
